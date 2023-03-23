@@ -1,0 +1,7 @@
+.replit
+replit.nix
+main.o
+main
+main-debug
+.ccls-cache
+.git
